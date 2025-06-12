@@ -1,0 +1,26 @@
+10 ERRORES
+
+1. !doctype esta con minúscula 
+2. etiqueta <title> le falta > no esta bien cerrada 
+3. etiqueta de cierre de titulo <h1> le falta / al cerrar
+4. Linea 13 no esta cerrada la etiqueta <li>
+5. Linea 19 abre con <h2> y cierra con </h3>
+6. Linea 21  el elemnto <img> no esta cerrado
+7. Linea 25 no esta cerrado el párrafo 
+8. Linea 27 no está cerrado el elemento <li>
+9. Linea 28 no está cerrado el elemento  <li> 
+10. Linea 35 no indica tipo de dato
+
+
+10 ETIQUETAS
+
+1.  <html> es la etiqueta que contiene la estructura completa de la pagina
+2. <head> indica en elcabezado de la pagina.. información para el servidor
+3. <link> hace la conexión con el archivo css
+4. <h1> el titulo de la pagina, tiene las letras de mayor tamaño y ennegrecidas
+5. <body> es el cuerpo de la pagina, todo el contenido va dentro de body
+6. <li> indica una lista
+7. <ul> Da inicio con un punto a cada lista
+8. <p> nos permite escribir párrafo
+9. <img> nos permite insertar una imagen
+10. <form> sirve para  crear un formulario 
